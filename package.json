@@ -1,0 +1,13 @@
+{
+  "name": "com.vrunited.custom.direstraits",
+  "version": "1.0.0",
+  "displayName": "VRUnited.Custom.DireStraits",
+  "description": "The VRUnited DireStraits logic",
+  "unity": "2019.1",
+  "author": {
+    "name": "EventLab",
+    "email": "eventlab.projects@gmail.com",
+    "url": "http://www.event-lab.org/"
+  }
+  
+}
