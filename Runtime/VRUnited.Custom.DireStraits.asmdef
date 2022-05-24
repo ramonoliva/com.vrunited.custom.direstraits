@@ -1,7 +1,9 @@
 {
     "name": "VRUnited.Custom.DireStraits",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:707846450004269438d1a41ff342c945"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
